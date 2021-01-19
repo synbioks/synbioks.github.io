@@ -15,7 +15,7 @@ names:
 superuser: false
 
 # Role/position
-role: Data Scientist
+role: Data Scientist / Computational Social Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -36,6 +36,7 @@ interests:
 - Data science
 - Natural Language Processing
 - Network Analysis
+- Ethics
 
 # projects:
 # - <a href="https://synbioks.github.io/">SBKS</a>
@@ -43,7 +44,7 @@ interests:
 
 
 department:
-- Sociology
+- Methodology and Quantitative Social Sciences
 
 education:
   courses:
@@ -126,4 +127,8 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Currently a data scientist at NORC at the University of Chicago, I use machine learning and statistics to derive actionable insights from data. I have considerable experience designing and leading research as well as developing tools and methods that improve organizations’ decision-making capacities. My areas of specialty with data science are natural language processing and network analysis, and I regularly program in Python, R, and SQL and use the scikit-learn, PyTorch, and TensorFlow frameworks for machine/deep learning.
+A data scientist at NORC at the University of Chicago, I use machine learning and statistics to derive actionable insights from data. I have considerable experience designing and leading research as well as developing tools and methods that improve organizations’ decision-making capacities. My areas of specialty with data science are natural language processing and network analysis, and I regularly program in Python, R, and SQL and use the scikit-learn, PyTorch, and TensorFlow frameworks for machine/deep learning.
+
+My work has been funded by the National Science Foundation, a Fulbright fellowship, the Government of France, and the Countway Library of Medicine (Harvard/Boston Medical Library), and I regularly review for a variety of data science and social science outlets: e.g., Widening NLP (WiNLP), American Sociological Review, American Journal of Sociology, PLOS One, Social Science Computer Review, American Journal of Sociology, Sociological Theory, Acta Sociologica, Journal for the Scientific Study of Religion, and Social Science Journal. I serve currently as Secretary of the Washington Statistical Society and Program Chair - Elect for the Text Analysis Interest Group of the American Statistical Association.
+
+I received my Ph.D. from the Department of Sociology at the University of Notre Dame, where I was also affiliated with the Interdisciplinary Center for Network Science and Applications (iCeNSA; now it is called the Center for Network and Data Science) and am a previous affiliate of the Groupe d’Étude des Méthodes de l’Analyse Sociologique de la Sorbonne (GEMASS) in Paris, France.
