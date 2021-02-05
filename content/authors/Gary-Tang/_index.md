@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gary Tang
+title: Jiawei (Gary) Tang
 
 # Username (this should match the folder name)
 authors:
@@ -8,23 +8,23 @@ authors:
 
 #Author Names (alternative spellings etc)
 names:
-- Gary Tang
+- Jiawei Tang
 - J. Tang
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 200
+weight: 300
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Graduate Researcher, M.S.
 
-university: CU
+university: UCSD
 
 department:
-- Biomedical Engineering
+- Computer Science
 
 projects:
 # - <a href="https://synbioks.github.io/">SBKS</a>
@@ -39,19 +39,15 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Plants and Microbial Sciences
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Machine Learning
+- Natural Language Processing
+- Data Processing and Automation
 
 education:
   courses:
-  - course: PhD in Biomedical Engineering
-    institution: University of Colorado Boulder
-    year: 2022
-  - course: BA in Natural Sciences
-    institution: University of Cambridge
-    year: 2018
+  - course: BS/MS in Computer Science
+    institution: University of California, San Diego
+    year: 2021
 
 
 # Social/Academic Networking
@@ -67,13 +63,10 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.linkedin.com/in/jeanet-mante-590a24169
+  link: https://www.linkedin.com/in/jiaweitang/
 - icon: github
   icon_pack: fab
-  link: https://github.com/JMante1
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://github.com/Jiawei-Tang-0820
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.colorado.edu/bme/academics/phd-program
@@ -108,4 +101,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Gary Tang BIO GOES HERE
+Gary Tang is a first year Master's student in Computer Science Departiment at UC San Diego, working as a NLP research assistant in SBKS.
