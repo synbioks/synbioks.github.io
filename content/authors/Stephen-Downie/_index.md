@@ -75,7 +75,7 @@ social:
   link: https://ischool.illinois.edu/people/j-stephen-downie
 - icon: github
   icon_pack: fab
-  link: https://github.com/cjmyers
+  link: https://github.com/jdownieghb
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

@@ -66,7 +66,7 @@ social:
   link: https://www.linkedin.com/in/xuanyu-wu-0630a5176/en
 - icon: github
   icon_pack: fab
-  link: https://github.com/JMante1
+  link: https://github.com/xuanyuwu123
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-1450-5638

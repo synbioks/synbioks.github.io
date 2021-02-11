@@ -77,7 +77,7 @@ social:
   link: https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html
 - icon: github
   icon_pack: fab
-  link: https://github.com/cjmyers
+  link: https://github.com/mhnsan
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

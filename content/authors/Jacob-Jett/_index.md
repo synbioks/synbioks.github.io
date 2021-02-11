@@ -46,10 +46,13 @@ education:
   courses:
   - course: PhD in Library and Information Science
     institution: University of Illinois Urbana-Champaign
-    year: 2022
+    year: 2019
+  - course: Certificate of Advanced Studies (CAS) in Digital Libraries
+    institution:
+    year: 2010
   - course: MS in Library and Information Science
     institution: University of Illinois Urbana-Champaign
-    year: 2018
+    year: 2007
 
 
 # Social/Academic Networking
@@ -71,7 +74,7 @@ social:
   link: https://github.com/jjett
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://orcid.org/0000-0003-1939-6255
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.colorado.edu/bme/academics/phd-program

@@ -70,7 +70,7 @@ social:
   link: https://www.linkedin.com/in/jeanet-mante-590a24169
 - icon: github
   icon_pack: fab
-  link: https://github.com/JMante1
+  link: https://github.com/YikaiHao
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-1450-5638
