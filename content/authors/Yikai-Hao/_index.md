@@ -19,12 +19,12 @@ weight: 200
 superuser: false
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Undergraduate Researcher
 
-university: CU
+university: University of California San Diego
 
 department:
-- Biomedical Engineering
+- Data Science & Cognitive Science
 
 projects:
 # - <a href="https://synbioks.github.io/">SBKS</a>
@@ -32,26 +32,22 @@ projects:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
+- name: University of California San Diego
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Plants and Microbial Sciences
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Natural Language Processing
+- Machine Learning
+- Neuroscience
 
 education:
   courses:
-  - course: PhD in Biomedical Engineering
-    institution: University of Colorado Boulder
-    year: 2022
-  - course: BA in Natural Sciences
-    institution: University of Cambridge
-    year: 2018
+  - course: BS in Data Science & Cognitive Science
+    institution: University of California San Diego
+    year: 2021
 
 
 # Social/Academic Networking
@@ -91,7 +87,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Graduate Students
+- Undergraduate Students
+# - Graduate Students
 # - Genetic Design Automation
 # - SBOL Canvas
 # - SynBioHub
@@ -108,6 +105,5 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Jet Mante joined the Genetic Logic Lab as a Ph.D. student under the Supervision of Professor Chris Myers. She is a plant scientist whose research focuses on the reuse of data and genetic components in Synthetic Biology. She is expanding her computational skills working on search and curation methods in SynBioHub.
+Yikai Hao is a senior undergraduate double majoring in Data Science and Cognitive Science, working as a NLP research assistant in SBKS.
 
-She joined the lab in Utah after her undergraduate in England, and moved to CU Boulder with Professor Myers when he accepted a positon as ECE Departmental Chair. Jet is making the most of the move to Boulder by enjoying the bike friendly city and the many hiking trails.
