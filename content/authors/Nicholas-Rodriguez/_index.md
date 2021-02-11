@@ -70,7 +70,7 @@ social:
   link: https://nlp.cs.vcu.edu/people.html
 - icon: github
   icon_pack: fab
-  link: https://github.com/JMante1
+  link: https://github.com/nick-rodriguez
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-1450-5638
