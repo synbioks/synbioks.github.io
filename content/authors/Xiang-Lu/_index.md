@@ -24,7 +24,7 @@ role: Undergraduate Researcher
 university: University of California San Diego
 
 department:
-- Biomedical Engineering
+- Mathematics
 
 projects:
 # - <a href="https://synbioks.github.io/">SBKS</a>
