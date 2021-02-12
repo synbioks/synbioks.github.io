@@ -104,4 +104,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Xiang Lu is BIO GOES HERE
+Xiang Lu is a senior undergraduate majoring in Applied Mathematics. 
