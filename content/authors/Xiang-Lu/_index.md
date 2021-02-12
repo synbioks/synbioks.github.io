@@ -19,12 +19,12 @@ weight: 200
 superuser: false
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Undergraduate Researcher
 
-university: CU
+university: University of California San Diego
 
 department:
-- Biomedical Engineering
+- Mathematics
 
 projects:
 # - <a href="https://synbioks.github.io/">SBKS</a>
@@ -32,26 +32,22 @@ projects:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
+- name: University of California San Diego
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Plants and Microbial Sciences
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Natural Language Processing
+- Text Mining
+- Deep Learning
 
 education:
   courses:
-  - course: PhD in Biomedical Engineering
-    institution: University of Colorado Boulder
-    year: 2022
-  - course: BA in Natural Sciences
-    institution: University of Cambridge
-    year: 2018
+  - course: BS in Applied Mathematics
+    institution: University of California San Diego
+    year: 2021
 
 
 # Social/Academic Networking
@@ -67,7 +63,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.linkedin.com/in/jeanet-mante-590a24169
+  link: https://www.linkedin.com/in/xiang-lu-lx/
 - icon: github
   icon_pack: fab
   link: https://github.com/xiangluxiang
@@ -91,7 +87,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Graduate Students
+- Undergraduate Students
 # - Genetic Design Automation
 # - SBOL Canvas
 # - SynBioHub
