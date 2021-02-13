@@ -36,7 +36,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kevin is a bioengineer interested in pharmaceutical and fine chemical manufacturing. He is currently pursuing a PhD in Chemical Engineering at Worcester Polytechnic Institute, where he develops synthetic biology tools for engineering nonconventional prokaryotes.
+#bio: Kevin is a bioengineer interested in pharmaceutical and fine chemical manufacturing. He is currently pursuing a PhD in Chemical Engineering at Worcester Polytechnic #Institute, where he develops synthetic biology tools for engineering nonconventional prokaryotes.
 
 interests:
 - Synthetic Biology
@@ -45,14 +45,14 @@ interests:
 - Living Biomaterials
 
 education:
-  degrees:
-  - degree: PhD in Chemical Engineering
+  courses:
+  - course: PhD in Chemical Engineering
     institution: Worcester Polytechnic Institute
     year: 2022 (expected)
-  - degree: M.Eng in Biomedical Engineering
+  - course: M.Eng in Biomedical Engineering
     institution: Rensselaer Polytechnic Institute
     year: 2014
-  - degree: BS in Biomedical Engineering
+  - course: BS in Biomedical Engineering
     institution: Rensselaer Polytechnic Institute
     year: 2014
 
@@ -111,4 +111,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Kevin Keating is a PhD candidate in Eric Young's Lab at WPI.
+Kevin is a bioengineer interested in pharmaceutical and fine chemical manufacturing. He is currently pursuing a PhD in Chemical Engineering at Worcester Polytechnic Institute, where he develops synthetic biology tools for engineering nonconventional prokaryotes.
