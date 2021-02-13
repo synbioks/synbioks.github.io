@@ -21,7 +21,7 @@ superuser: false
 # Role/position
 role: Graduate Researcher, Ph.D.
 
-university: CU
+university: WPI
 
 department:
 - Chemical Engineering
@@ -36,22 +36,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: Kevin is a bioengineer interested in pharmaceutical and fine chemical manufacturing. He is currently pursuing a PhD in Chemical Engineering at Worcester Polytechnic #Institute, where he develops synthetic biology tools for engineering nonconventional prokaryotes.
 
 interests:
 - Synthetic Biology
-- Plants and Microbial Sciences
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Metabolic Engineering
+- Modular Cloning
+- Living Biomaterials
 
 education:
   courses:
   - course: PhD in Chemical Engineering
     institution: Worcester Polytechnic Institute
-    year: 2022
-  - course: BA in Natural Sciences
-    institution: University of Cambridge
-    year: 2018
+    year: 2022 (expected)
+  - course: M.Eng in Biomedical Engineering
+    institution: Rensselaer Polytechnic Institute
+    year: 2014
+  - course: BS in Biomedical Engineering
+    institution: Rensselaer Polytechnic Institute
+    year: 2014
 
 
 # Social/Academic Networking
@@ -67,13 +70,13 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: user-graduate
   icon_pack: fas
-  link: http://www.ericmyoung.com/people.html
+  link: https://www.linkedin.com/in/kevinwkeating
 - icon: github
   icon_pack: fab
   link: https://github.com/kevinwkeating
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://orcid.org/0000-0001-6260-5572
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.colorado.edu/bme/academics/phd-program
@@ -108,4 +111,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Kevin Keating is a PhD candidate in Eric Young's Lab at WPI.
+Kevin is a bioengineer interested in pharmaceutical and fine chemical manufacturing. He is currently pursuing a PhD in Chemical Engineering at Worcester Polytechnic Institute, where he develops synthetic biology tools for engineering nonconventional prokaryotes.
