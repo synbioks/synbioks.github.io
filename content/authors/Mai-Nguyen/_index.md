@@ -16,11 +16,11 @@ names:
 superuser: false
 
 # Role/position
-role: Lead Data Analytics
+role: Lead for Data Analytics
 
 # Organizations/Affiliations
 organizations:
-- name: University California San Diego
+- name: University of California, San Diego
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -31,12 +31,12 @@ weight: 1
 university: CU
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, deep/machine learning, and data science.
 
 interests:
-- Machine Learning
-- Big Data Analytics
-- Interdisciplinary Research
+- Artificial Intelligence
+- Deep/Machine Learning
+- Data Science
 
 projects:
 # - <a href="https://synbioks.github.io/">SBKS</a>
@@ -48,15 +48,15 @@ department:
 
 education:
   courses:
-  - course: PhD in Electrical Engineering
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of California, San Diego
     year: 1995
-  - course: MS in Electrical Engineering
-    institution: Stanford University
-    year: 1993
-  - course: BS in Electrical Engineering / History
-    institution: California Institute of Technology
-    year: 1991
+  - course: MS in Computer Science
+    institution: University of California, San Diego
+    year: 1990
+  - course: BS in Computer Science
+    institution: Colorado State University
+    year: 1988
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -83,7 +83,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-8762-8444
+  link: https://orcid.org/0000-0002-1444-648X
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.colorado.edu/ecee
@@ -133,4 +133,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Mai Nguyen is the Lead for Data Analytics at the San Diego Supercomputer Center (SDSC) of the University of California, San Diego (UCSD). Her research interests center on applying machine learning techniques to interdisciplinary problems, and combining machine learning methods with distributed computing technologies to analyze big data. She has worked in many application areas, including remote sensing, satellite image processing, medical image analysis, wildfire management, spacecraft autonomy, and speech recognition. Prior to joining SDSC, she worked in industry on applications in machine learning, data mining, business intelligence, and data warehousing. She has also been teaching in these areas since 2009. Mai received her M.S. and Ph.D. degrees in Computer Science from UCSD, with focus on machine learning.
+Mai Nguyen is the Lead for Data Analytics with the San Diego Supercomputer Center at the University of Californa, San Diego.  Her research centers on applying artificial intelligence, deep/machine learning, and data science techniques to interdisciplinary problems.  She has worked in many domains, including satellite image processing, medical image analysis, knowledge extraction from text, and object detection and data analysis for wildfire mitigation. Prior to joining SDSC, she worked in industry on applications in remote sensing, image processing, speech recognition, and spacecraft autonomy.  She also teaches courses in machine learning and scalable data analytics.  Mai received her M.S. and Ph.D. degrees in Computer Science from UCSD, with focus on machine learning.
