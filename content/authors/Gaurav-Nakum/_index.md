@@ -36,19 +36,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include natural lanuage processing and computer vision.
 
 interests:
-- Synthetic Biology
-- Plants and Microbial Sciences
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Natural Language Processing
+- Computer Vision
 
 education:
   courses:
   - course: MS in Computer Science
     institution: University California San Diego
-    year: 2018
+    year: 2019
 
 
 # Social/Academic Networking
@@ -70,7 +68,7 @@ social:
   link: https://github.com/nakumgaurav
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://orcid.org/0000-0003-3547-8963
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.colorado.edu/bme/academics/phd-program
