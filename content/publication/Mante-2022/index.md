@@ -37,8 +37,7 @@ projects: []
 publishDate: '2021-01-09T18:30:05.814266Z'
 publication_types:
 - '7'
-abstract:
-Synthetic biology is a movement to standardize genetic engineering and make it more
+abstract: Synthetic biology is a movement to standardize genetic engineering and make it more
 reproducible and accessible by using functional descriptions of desired circuits. Such descriptions
 can then be converted to genetic designs via genetic design automation tools. Subsequently, the genetic
 designs can be used to generate models for in silico experimentation using automatic model generators.
