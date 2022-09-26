@@ -49,7 +49,7 @@ storage and reuse of parts is still very limited. This is due to insufficient me
 difficult to find parts or judge their usefulness) and the effort required to submit parts to the 
 repository. This dissertation aims to decrease the barriers to part reuse and thus enable a more 
 automated synthetic biology workflow. Hence, an integrated curation workflow is proposed based on 
-the contributions of the dissertation. The contributions are: a proposed SBOL Data Content Standard, 
+the contributions of the dissertation. The contributions are a proposed SBOL Data Content Standard, 
 tools for working with genetic parts in spreadsheets, a framework to modularly extend the SynBioHub 
 part repository, and the lessons learned from the analysis and curation of data from existing 
 genetic data repositories.
